@@ -49,4 +49,10 @@
 /wp-content/gallery/permanent-lips/dynamic/yundr.php
 /wp-content/plugins/akismet/views/strict.php
 /wp-content/themes/Avada/tribe-events/day/.wplogins.php
+/wp-includes/pomo/404.php
+/procate/popup-pomo.php
+/wp-content/plugins/easyrotator-for-wordpress/indox.php
+/dama.php
+/wp-includes/random_compat/.control.php
+/wp-includes/Text/Diff/Engine/text.php
 
