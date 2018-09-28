@@ -55,4 +55,10 @@
 /dama.php
 /wp-includes/random_compat/.control.php
 /wp-includes/Text/Diff/Engine/text.php
+/wp-content/plugins/jurig/idx.php
+/wp-content/plugins/easyrotator-for-wordpress/wj.php
+/wp-includes/SimplePie/Canonical.php
+/Babbitts.php
+/wp-content/plugins/mojo-marketplace-wp-plugin/inc/mojo-themes-riff.php
+/wp-content/plugins/all-in-one-wp-security-and-firewall/lib/whois/whois.nu-core.php
 
